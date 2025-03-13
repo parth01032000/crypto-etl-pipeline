@@ -33,7 +33,7 @@ Installation
 
 Clone this repository:
 
-Copygit clone https://github.com/parth01032000/crypto_etl_pipeline.git
+Copygit clone https://github.com/parth01032000/crypto-etl-pipeline
 cd crypto_etl_pipeline
 
 Create and activate a virtual environment:
